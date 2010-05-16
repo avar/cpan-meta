@@ -7,6 +7,8 @@ package CPAN::Meta::Spec;
 # ABSTRACT: specification for CPAN distribution metadata
 1;
 
+=encoding utf8
+
 =head1 SYNOPSIS
 
   my $distmeta = {
@@ -1094,7 +1096,7 @@ Several others have contributed patches over the years.  The full list
 of contributors in the repository history currently includes:
 
   2shortplanks
-  Avar Arnfjord Bjarmason
+  Ævar Arnfjörð Bjarmason
   Christopher J. Madsen
   Damyan Ivanov
   David Golden
